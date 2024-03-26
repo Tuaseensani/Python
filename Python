@@ -1,0 +1,10 @@
+Employee1 = ["Aiman",12345,]
+Employee2 = ["Muhammad quddus bin hashim",34567]
+Faculty1 = ["Sadam hussain urf bil maarouf",67889]
+Faculty2 = ["Hashir Ali Rana", 89076]
+
+print("ID:",Employee1[1],
+      "Name",Employee1[1])
+print("ID:",Employee2[1],"Name:",Employee2[0])
+print("ID:",Faculty1[1],"Name:",Faculty1[0])
+print("ID:",Faculty2[1],"Name:",Faculty2[0])
